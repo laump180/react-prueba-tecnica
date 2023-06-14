@@ -17,11 +17,11 @@ Una breve app que es un Todo simple que agrega y quita elementos
 2. instalar dependencias 
 
   npm install
-  # O si usas yarn
+  O si usas yarn
   yarn install
  
 3. correr el proyecto 
 
   npm run dev
-  # O si usas yarn
+  O si usas yarn
   yarn dev
