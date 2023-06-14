@@ -17,7 +17,7 @@ const TableBase = ({ data, columns }) => {
       muiTableContainerProps={{ sx: { maxHeight: '500px' } }}
     />
     </div>
-  );
+  ); 
 };
 
 export default TableBase;
